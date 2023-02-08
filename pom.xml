@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>  http://3.109.152.71:8081/repository/rama-release/</url>
+	      <url>  http://15.206.69.139:8081/repository/today-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>  http://3.109.152.71:8081/repository/rama-snap/</url>
+	      <url> http://15.206.69.139:8081/repository/today-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
